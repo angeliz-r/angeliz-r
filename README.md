@@ -4,4 +4,4 @@ I'm a technical level designer. I make games on Unity and Unreal Engine and they
 
 If they don't, then there's something new for me to learn. 🤔
 
-You can get in touch via [LinkedIn](https://www.linkedin.com/in/angeliz-r/), [Twitter](https://twitter.com/_angeliz_r) and [Website](https://angeliz-r.github.io/a-z/)
+You can get in touch via [LinkedIn](https://www.linkedin.com/in/angeliz-r/), [Twitter](https://twitter.com/_angeliz_r) or [my website](https://angeliz-r.github.io/a-z/)
