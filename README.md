@@ -1,6 +1,6 @@
 ## Hi, I’m Angeliz.
 
-I'm a technical level designer. I make games on Unity and Unreal Engine and they work... sometimes! :clown_face:
+I'm a technical designer. I make games on Unity and Unreal Engine and they work... sometimes! :clown_face:
 
 If they don't, then there's something new for me to learn. 🤔
 
